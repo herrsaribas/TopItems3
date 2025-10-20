@@ -1,0 +1,11 @@
+{
+    "name"              :   "HelloWorld",
+    "namespace"         :   "HelloWorld",
+    "type"              :   "template",
+    "version"           :   "0.0.1",
+    "pluginIcon"        :   "icon_plugin_xs.png",
+    "description"       :   "",
+    "author"            :   "",
+    "authorIcon"        :   "icon_author_xs.png",
+    "serviceProvider"   :   "HelloWorld\\Providers\\HelloWorldServiceProvider"
+}
